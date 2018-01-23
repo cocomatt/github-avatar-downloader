@@ -1,0 +1,8 @@
+node download_avatars.js
+
+1. Make a request to the github api
+2. Get data back in JSON format (Github gives you a choice)
+3. Process data
+  a. Convert it to JS Object
+  b. For each object in the array:
+    1. Output the avatar_url for each contributor

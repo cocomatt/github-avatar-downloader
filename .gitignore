@@ -1,3 +1,6 @@
+# Secrets
+secrets.js
+
 # Logs
 logs
 *.log
@@ -62,3 +65,4 @@ typings/
 
 # DS_Store
 .DS_Store
+
